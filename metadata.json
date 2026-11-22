@@ -1,0 +1,8 @@
+{
+  "name": "MORSALIN CARROM",
+  "description": "An offline-first, tactile wooden Carrom board game with Matter.js 2D physics, smart AI opponents, local pass-and-play multiplayer, and Android Capacitor packaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
